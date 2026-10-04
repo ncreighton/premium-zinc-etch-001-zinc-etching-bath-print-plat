@@ -1,0 +1,2 @@
+# premium-zinc-etch-001-zinc-etching-bath-print-plat
+Tired of losing track of your etching bath recipes, plate timings, and print editions? Your zinc-etch workflow deserves a dedicated lab notebook—digitized.  This Notion template transforms chaotic studio notes into a structured craft lab, centralizing bath formulas, plate history, and print runs. No more sticky notes or forgotten parameters—just a
